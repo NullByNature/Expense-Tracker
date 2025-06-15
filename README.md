@@ -39,5 +39,8 @@ Each file includes:
 - `System.Environment.SpecialFolder`
 - Error handling and user validation
 
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
 
 
